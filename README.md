@@ -1,1 +1,1 @@
-"# Two player dice game in html css js" 
+Two player dice game in html, css, and js
